@@ -1,6 +1,6 @@
-# Finz AI Financial Review — MVP
+# AI Financial Review — MVP
 
-A fast interview-assignment implementation for the Finz Software Engineering Internship challenge.
+A fast interview-assignment implementation for the Software Engineering Internship challenge.
 
 ## Stack
 - Python + FastAPI
